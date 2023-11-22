@@ -70,3 +70,14 @@
 <p align="left">
 <a href="https://discord.gg/shhawk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shhawk" height="30" width="40" /></a>
 </p>
+
+### My daily Routine : 
+```mermaid
+    graph TD; 
+        Code-->Eat; 
+        Eat-->Sleep;
+        Sleep-->Code;
+```
+###ShHaWkK's Github Stats 
+<br>
+![GHstats](https://github-readme-stats.vercel.app/api?username=ShHaWkK&:how_icons=true)
