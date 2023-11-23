@@ -83,3 +83,4 @@
         Eat-->Sleep;
         Sleep-->Code;
 ```
+![GHstats](https://github-readme-stats.vercel.app/api?username=ShHaWkK&:how_icons=true)
