@@ -83,8 +83,6 @@
         Eat-->Sleep;
         Sleep-->Code;
 ```
-### Visitor count
 
-<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=ShHaWkK&:how_icons=true)
