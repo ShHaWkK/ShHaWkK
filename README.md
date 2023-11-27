@@ -68,7 +68,19 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
-  
+
+  <h3>SoftWare</h3>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+<a href="https;//Insomnia.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" alt="Insomnia" width="40" height="40"/>
+</a>
+
+<h3>Virtualization</h3>
+<a href="https://Vmware.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/vmware-tanzu.svg" alt="VmWare" width="40" height="40"/>
+  </a>
   
 </p>
 <h3 align="left">Connect with me:</h3>
