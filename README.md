@@ -79,7 +79,7 @@
 
 <h3>Virtualization</h3>
 <a href="https://Vmware.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/vmware-tanzu.svg" alt="VmWare" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/vmware-tanzu.svg" alt="VmWare" width="60" height="60"/>
   </a>
   
 </p>
