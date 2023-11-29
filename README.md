@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm ShHaWkK</h1>
 <h3 align="center">Beginner Developer</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=ShHaWkK&label=Profile%20views&color=0e75b6&style=flat" alt="sshawk"/>
+
 <h3 align="left">Languages and Tools:</h3>
+
+
+🔭 I’m currently working on some personnal project
+
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
