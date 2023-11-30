@@ -7,8 +7,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-* 🔭 I’m currently working on some personnal project
 * ❤️ I love programming, break my head
 
 <p align="left"> 
