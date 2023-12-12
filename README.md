@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm ShHaWkK</h1>
 <h3 align="center">Beginner Developer</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></img>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=23&duration=3000&pause=1000&color=76F6B0&vCenter=true&random=false&width=441&lines=.%2Fusr%2Fbin%2FShHaWkK;-%3E+ShHaWkK+%24+)](https://git.io/typing-svg)
 </div>
 <img src="https://komarev.com/ghpvc/?username=ShHaWkK&label=Profile%20views&color=0e75b6&style=flat" alt="sshawk"/>
 
