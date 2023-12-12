@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm ShHaWkK</h1>
   <div align="center">
 <img src="./img/2.gif">
-  <img src ="./img/line2.gif" align ="right">
-<h3 align="center">Beginner Developer</h3>
+<h3 align="center">Beginner Developer</h3> 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></img>
   
@@ -13,7 +12,6 @@
 <img src="https://komarev.com/ghpvc/?username=ShHaWkK&label=Profile%20views&color=0e75b6&style=flat" alt="sshawk"/>
 
 <h3 align="left">Languages and Tools:</h3>
-
 * ❤️ I love programming, break my head
 
 <p align="left"> 
