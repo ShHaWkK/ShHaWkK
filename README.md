@@ -6,6 +6,7 @@
 <h3 align="center">Beginner Developer</h3> 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></img>
+</div>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=23&duration=3000&pause=1000&color=76F6B0&vCenter=true&random=false&width=441&lines=.%2Fusr%2Fbin%2FShHaWkK;-%3E+ShHaWkK+%24+)](https://git.io/typing-svg)
 </div>
