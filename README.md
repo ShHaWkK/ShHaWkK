@@ -112,6 +112,8 @@
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=ShHaWkK&:how_icons=true)
 
+<hr>
+<h3 aligne="center">Ressources</h3>
 
 [Animated typing](https://github.com/denvercoder1/readme-typing-svg)  
 </body>
