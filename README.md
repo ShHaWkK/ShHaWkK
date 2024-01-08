@@ -112,5 +112,5 @@
 <hr>
 <h3 aligne="center">Ressources</h3>
 
-[Animated typing](https://github.com/denvercoder1/readme-typing-svg)  
+[readme-typing-svg](https://github.com/denvercoder1/readme-typing-svg)  
 </body>
