@@ -17,7 +17,8 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=ShHaWkK&label=Profile%20views&color=0e75b6&style=flat" alt="sshawk"/>
 
-* ❤️ I love programming, break my head
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=76F6B0&repeat=false&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+I+love+programming%2C+break+my+head)](https://git.io/typing-svg)
+
   
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=76F6B0&repeat=false&random=false&width=435&lines=%F0%9F%92%BB+Software+and+Tools+%3A)](https://git.io/typing-svg)
