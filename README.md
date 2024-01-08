@@ -14,8 +14,9 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=ShHaWkK&label=Profile%20views&color=0e75b6&style=flat" alt="sshawk"/>
 
+* ❤️ I love programming, break my head
 <h3>💻 Software and Tools</h3>
-  * ❤️ I love programming, break my head
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
