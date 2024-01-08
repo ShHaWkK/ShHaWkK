@@ -1,6 +1,8 @@
 <body>
 <h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
 
+<!-- Social icons section -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=23&duration=3000&pause=1000&color=76F6B0&vCenter=true&random=false&width=441&lines=.%2Fusr%2Fbin%2FShHaWkK;-%3E+ShHaWkK+%24+)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm ShHaWkK :blush:</h1>
@@ -8,6 +10,7 @@
   <div align="center">
 <img src="./img/1.gif">
 <h3 align="center">Beginner Developer</h3> 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></img>
 </div>
@@ -17,7 +20,7 @@
 * ❤️ I love programming, break my head
   
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=76F6B0&random=false&width=435&lines=%F0%9F%92%BB+Software+and+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=76F6B0&repeat=false&random=false&width=435&lines=%F0%9F%92%BB+Software+and+Tools+%3A)](https://git.io/typing-svg)
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -85,9 +88,11 @@
   </a>
 </p>
 
+<!-- Social icons section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/shhawk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shhawk" height="30" width="40" /></a>
+  
+<a href="https://discord.gg/shhawk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shhawk" height="30" width="40" /></a><a href="https://www.linkedin.com/in/alexandre-uzan-b65923256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandre-uzan-b65923256/" height="30" width="40" /></a>
 </p>
 
 ### My daily Routine : 
