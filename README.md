@@ -15,7 +15,9 @@
 <img src="https://komarev.com/ghpvc/?username=ShHaWkK&label=Profile%20views&color=0e75b6&style=flat" alt="sshawk"/>
 
 * ❤️ I love programming, break my head
-<h3>💻 Software and Tools</h3>
+  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=76F6B0&random=false&width=435&lines=%F0%9F%92%BB+Software+and+Tools)](https://git.io/typing-svg)
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
