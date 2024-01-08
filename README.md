@@ -107,8 +107,7 @@
 <hr>
 <h3 align="left">Stats</h3>
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=ShHaWkK&:how_icons=true)
-
+[![Les Stats GitHub de ShHaWkK](https://github-readme-stats.vercel.app/api?ShHaWkK=anuraghazra)](https://github.com/ShHaWkK/github-readme-stats)
 <hr>
 <h3 aligne="center">Ressources</h3>
 
