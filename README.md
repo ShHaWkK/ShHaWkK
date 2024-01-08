@@ -104,7 +104,7 @@
 ```
 
 <hr>
-<h3 align="center">Stats</h3>
+<h3 align="left">Stats</h3>
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=ShHaWkK&:how_icons=true)
 
