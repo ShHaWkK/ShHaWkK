@@ -19,10 +19,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=76F6B0&repeat=false&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+I+love+programming%2C+break+my+head)](https://git.io/typing-svg)
 
-  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=76F6B0&repeat=false&random=false&width=435&lines=%F0%9F%92%BB+Software+and+Tools+%3A)](https://git.io/typing-svg)
-
+<h3 align="left">💻 Software and Tools</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
