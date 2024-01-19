@@ -84,6 +84,9 @@
   <a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
     <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white">
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/XML" target="_blank" rel="noreferrer">
+    <img alt="JavaScript" src="https://img.shields.io/badge/XML-4000BF?logo=xml&logoColor=white">
+  </a>
 </p>
 
 <!-- Social icons section -->
