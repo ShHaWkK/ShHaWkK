@@ -108,7 +108,7 @@
 <h3 align="left">Stats</h3>
 
 ![ShHaWkK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShHaWkK&show_icons=true&theme=transparent)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShHaWkK&theme=dark)](https://git.io/streak-stats)
 <hr>
 <h3 aligne="center">Ressources</h3>
 
