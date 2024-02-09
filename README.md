@@ -115,5 +115,6 @@
 
 [streak_Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-
+<a href="https://wakatime.com/@ShHaWkK">
+<img src="https://wakatime.com/share/@ShHaWkK/b718118a-a646-42fe-a7d5-b84c4591cb98.svg" height="320px"></a>
 </body>
