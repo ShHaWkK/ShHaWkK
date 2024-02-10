@@ -108,7 +108,6 @@
 <h3 align="left">Stats</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShHaWkK&theme=dark)](https://git.io/streak-stats)
-<hr>
 <h3 aligne="center">Ressources</h3>
 
 [readme-typing-svg](https://github.com/denvercoder1/readme-typing-svg)  
