@@ -9,7 +9,7 @@
   
   <div align="center">
 <img src="./img/1.gif">
-<h3 align="center">Beginner Developer</h3> 
+<h3 align="center">Junior Developer</h3> 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></img>
