@@ -107,6 +107,11 @@
 
 <hr>
 <h3 align="left">Stats</h3>
+<p align="center">
+   <img title="overview" src="https://raw.githubusercontent.com/ShHaWkK/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+   <img title="overview" src="https://raw.githubusercontent.com/ShHaWkK/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShHaWkK&theme=dark)](https://git.io/streak-stats)
 <h3 aligne="center">Ressources</h3>
