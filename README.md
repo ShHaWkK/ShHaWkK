@@ -91,9 +91,14 @@
 </p>
 
 <!-- Social icons section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
+<h3 align="left">Contact ME</h3>
+<p align="center">
+<img title="Discord" href="https://discord.gg/TS6w3TYZRM" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="5%"/>
+</p>
+<p align="center">
+Vagahbond#4554
+</p>
+<p align="center"> 
 <a href="https://www.linkedin.com/in/alexandre-uzan-b65923256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandre-uzan-b65923256/" height="30" width="40" /></a>
 </p>
 
