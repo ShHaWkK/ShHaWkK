@@ -114,7 +114,6 @@ shhawk</p><p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShHaWkK&theme=dark)](https://git.io/streak-stats)
 
 <p align="left">
-   <img title="overview" src="https://raw.githubusercontent.com/ShHaWkK/github-stats/master/generated/overview.svg#gh-dark-mode-only">
    <img title="overview" src="https://raw.githubusercontent.com/ShHaWkK/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </p>
 <h3 aligne="center">Ressources</h3>
