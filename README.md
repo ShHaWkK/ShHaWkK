@@ -1,13 +1,11 @@
 <body>
 <h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
-
 <!-- Social icons section -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=23&duration=3000&pause=1000&color=76F6B0&vCenter=true&random=false&width=441&lines=.%2Fusr%2Fbin%2FShHaWkK;-%3E+ShHaWkK+%24+)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm ShHaWkK :blush:</h1>
-  
-  <div align="center">
+<div align="center">
 <img src="./img/1.gif">
 <h3 align="center">Junior Developer</h3> 
 
