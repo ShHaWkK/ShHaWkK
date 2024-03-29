@@ -108,7 +108,7 @@ shhawk</p><p align="center">
 
 <hr>
 <h3 align="left">Stats</h3>
-
+<img src="https://github-readme-stats.vercel.app/api?username=ShHaWkK&show_icons=true&count_private=true&hide_border=true" />  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShHaWkK&theme=dark)](https://git.io/streak-stats)
 
 <p align="left">
