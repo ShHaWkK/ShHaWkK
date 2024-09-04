@@ -1,4 +1,7 @@
 <body>
+  <div align="center">
+    <img src="./img/banner.png" alt="Banner">
+  </div>
 <h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
 <!-- Social icons section -->
 
