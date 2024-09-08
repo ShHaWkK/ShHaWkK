@@ -26,6 +26,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   </a>
+    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
   </a>
