@@ -29,6 +29,9 @@
     <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
     <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
   </a>
+<a href="https://regex101.com/" target="_blank" rel="noreferrer"> 
+  <img alt="Regex" src="https://img.shields.io/badge/Regex-009926?logo=regularexpressions&logoColor=white"> 
+</a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
   </a>
