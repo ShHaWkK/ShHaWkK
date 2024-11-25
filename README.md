@@ -133,4 +133,10 @@ shhawk</p><p align="center">
 <p align="center">
         <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/Bottom.svg" alt="Github Stats" />
 </p>
+
+  <h2>🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jkw301&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 </body>
