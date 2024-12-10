@@ -119,7 +119,6 @@ shhawk</p><p align="center">
 <h3 align="left">Stats</h3>
 
 ![ShHaWkK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShHaWkK&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShHaWkK&layout=compact&theme=radical)
 <p align="left">
    <img title="overview" src="https://raw.githubusercontent.com/ShHaWkK/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </p>
