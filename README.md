@@ -7,16 +7,27 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=23&duration=3000&pause=1000&color=76F6B0&vCenter=true&random=false&width=441&lines=.%2Fusr%2Fbin%2FShHaWkK;-%3E+ShHaWkK+%24+)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm ShHaWkK :blush:</h1>
-<div align="center">
-<img src="./img/1.gif">
-<h3 align="center">Junior Developer & System and Network Administrator </h3> 
+<!-- Typing SVG animation -->
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=76F6B0&vCenter=true&width=435&lines=Hello,+I'm+ShHaWkK!;Junior+Developer+%26+SysAdmin;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+  <div align="center">
+    <img src="./img/1.gif" alt="Developer GIF">
+    <h3>Junior Developer & System and Network Administrator</h3>
+    <img src="https://komarev.com/ghpvc/?username=ShHaWkK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  </div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></img>
 </div>
 </div>
 <img src="https://komarev.com/ghpvc/?username=ShHaWkK&label=Profile%20views&color=0e75b6&style=flat" alt="sshawk"/>
+
+  <!-- About Me Section -->
+  <h2 align="center">👋 About Me</h2>
+  <p align="center">
+    Passionate about technology, programming, and system administration. I enjoy solving complex problems and learning new technologies!
+  </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=76F6B0&repeat=false&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+I+love+programming%2C+break+my+head)](https://git.io/typing-svg)
 
@@ -148,8 +159,8 @@
   </a>
 </p>
 
-<!-- Social icons section -->
-<h3 align="left">Contact ME</h3>
+  <!-- Contact Section -->
+  <h2>📫 Contact Me</h2>
 <p align="center">
 <img title="Discord" href="https://discord.gg/TS6w3TYZRM" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="5%"/>
 </p>
@@ -158,7 +169,10 @@ shhawk</p><p align="center">
 <a href="https://www.linkedin.com/in/alexandre-uzan-b65923256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandre-uzan-b65923256/" height="30" width="40" /></a>
 </p>
 
-### My daily Routine : 
+<!-- Daily Routine Diagram -->
+
+<h2>🕒 My Daily Routine</h2>
+
 ```mermaid
     graph TD; 
         Code-->Eat; 
@@ -167,26 +181,30 @@ shhawk</p><p align="center">
 ```
 
 <hr>
-<h3 align="left">Stats</h3>
+<!-- Stats Section -->
+<h2>📊 GitHub Stats</h2>
 
 ![ShHaWkK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShHaWkK&show_icons=true&theme=radical)
-<p align="left">
-   <img title="overview" src="https://raw.githubusercontent.com/ShHaWkK/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-</p>
-<h3 aligne="center">Ressources</h3>
 
-[readme-typing-svg](https://github.com/denvercoder1/readme-typing-svg)  
+<!-- Languages Chart -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShHaWkK&layout=compact&theme=radical)
 
-[streak_Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+<!-- Trophies Section -->
+<h2>🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShHaWkK&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+<!-- Resources Section -->
+<h2>📚 Resources</h2>
+
+- [readme-typing-svg](https://github.com/denvercoder1/readme-typing-svg)  
+- [streak_Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</body>
 
 
 <p align="center">
         <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/Bottom.svg" alt="Github Stats" />
 </p>
 
-  <h2>🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShHaWkK&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-</body>
