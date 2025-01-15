@@ -184,7 +184,8 @@ shhawk</p><p align="center">
 <!-- Stats Section -->
 <h2>📊 GitHub Stats</h2>
 
-![ShHaWkK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShHaWkK&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShHaWkK&theme=dark&date_format=j%20M%5B%20Y%5D)
+
 
 <!-- Languages Chart -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShHaWkK&layout=compact&theme=radical)
