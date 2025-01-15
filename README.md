@@ -23,63 +23,114 @@
 <h3 align="left">💻 Software and Tools</h3>
 <br>
 <p align="left">
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   </a>
-    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
+  
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
   </a>
-<a href="https://regex101.com/" target="_blank" rel="noreferrer"> 
-  <img alt="Regex" src="https://img.shields.io/badge/Regex-009926?logo=regularexpressions&logoColor=white"> 
-</a>
+  
+  <!-- Regex -->
+  <a href="https://regex101.com/" target="_blank" rel="noreferrer"> 
+    <img alt="Regex" src="https://img.shields.io/badge/Regex-009926?logo=regularexpressions&logoColor=white"> 
+  </a>
+  
+  <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
   </a>
+  
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
+  </a>
+  
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
+  </a>
+  
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
+  </a>
+  
+  <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">
   </a>
+  
+  <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
   </a>
+  
+  <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   </a>
+  
+  <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
   </a>
+  
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
   </a>
+  
+  <!-- PHP -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
   </a>
+  
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   </a>
+  
+  <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
   </a>
+  
+  <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white">
   </a>
+  
+  <!-- C# -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
   </a>
+  
+  <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
   </a>
+  
+  <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
   </a>
+  
+  <!-- Microsoft SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white">
   </a>
+  
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=black">
-  </a>
+  
+  <!-- Oracle <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img alt="Oracle" src=https:"//img.shields.io/badge/Oracle-F80000?logo=oracle&color=f80000&style=square"/>
+-->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
   </a>
