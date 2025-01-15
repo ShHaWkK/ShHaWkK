@@ -181,10 +181,12 @@ shhawk</p><p align="center">
 ```
 
 <hr>
-<!-- Stats Section -->
+
+<!-- Stats Section 
 <h2>📊 GitHub Stats</h2>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ShHaWkK&theme=dark&date_format=j%20M%5B%20Y%5D)
+-->
 
 
 <!-- Languages Chart -->
