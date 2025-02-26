@@ -159,14 +159,27 @@
   </a>
 </p>
 
-  <!-- Contact Section -->
-  <h2>📫 Contact Me</h2>
+<!-- Contact Section -->
+<h2>📫 Contact Me</h2>
+
 <p align="center">
-<img title="Discord" href="https://discord.gg/TS6w3TYZRM" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="5%"/>
+  <a href="https://discord.gg/TS6w3TYZRM">
+    <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="Discord" title="Discord" width="30">
+  </a>
 </p>
+
 <p align="center">
-shhawk</p><p align="center"> 
-<a href="https://www.linkedin.com/in/alexandre-uzan-b65923256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandre-uzan-b65923256/" height="30" width="40" /></a>
+  <a href="https://www.root-me.org/ShHawk?lang=fr">
+    <img src="https://pro.root-me.org/squelettes/images/RMP_logo2_blanc.png" alt="Root-Me Profile" title="Root-Me Profile" width="50">
+  </a>
+</p>
+
+<p align="center">shhawk</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandre-uzan-b65923256/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 <!-- Daily Routine Diagram -->
