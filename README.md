@@ -26,6 +26,7 @@
   <!-- About Me Section -->
   <h2 align="center">👋 About Me</h2>
   <p align="center">
+    Personality : INFJ-A
     Passionate about technology, programming, and system administration. I enjoy solving complex problems and learning new technologies!
   </p>
 
