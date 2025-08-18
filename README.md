@@ -245,9 +245,8 @@ graph TD
 ### 🔴 **ROOT-ME WARRIOR**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Root--Me-ShHaWkK-red?style=for-the-badge&logo=hackthebox&logoColor=white" width="200"/>
-  <br/><br/>
-  <img src="https://www.root-me.org/IMG/siteon0.png" width="120"/>
+  <img src="https://www.webkidsacademy.be/tp1/Site%20Internet%20personnel/2019-2020/Nicolas%20Wyrzykowski/images/root-me-pro.png" width="200"/>
+   <br/><br/>
 </div>
 
 ```bash
@@ -294,9 +293,8 @@ class PwnCollege:
 ### 🏆 **CCNA CERTIFIED**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CISCO-CCNA%20Certified-blue?style=for-the-badge&logo=cisco&logoColor=white" width="200"/>
+  <img src="https://cloudsynergy.in/wp-content/uploads/2023/11/ccna.png" width="200"/>
   <br/><br/>
-  <img src="https://logos-world.net/wp-content/uploads/2020/11/Cisco-Logo.png" width="120"/>
 </div>
 
 ```cisco
@@ -357,7 +355,7 @@ Routing & Switching: EXPERT
 <tr>
 <td width="50%" align="center">
 
-### 💬 **DISCORD NEXUS**
+### 💬 **DISCORD **
 
 <div align="center">
   <img src="https://img.shields.io/badge/Discord-shhawk-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="300"/>
@@ -404,9 +402,8 @@ Routing & Switching: EXPERT
 ### 🔴 **ROOT-ME HACKER**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Root--Me-ShHaWkK-red?style=for-the-badge&logo=hackthebox&logoColor=white" width="300"/>
+  <img src="https://www.webkidsacademy.be/tp1/Site%20Internet%20personnel/2019-2020/Nicolas%20Wyrzykowski/images/root-me-pro.png" width="200"/>
   <br/><br/>
-  <img src="https://www.root-me.org/IMG/siteon0.png" width="100"/>
 </div>
 
 **🎯 Username:** `ShHaWkK`  
