@@ -429,7 +429,7 @@ Routing & Switching: EXPERT
 
 **🎯 Username:** `ShHawk`  
 **📚 Status:** Learning  
-**🚀 Goal:** Binary Exploitation  
+**🚀 Goal:** Binary Exploitation, ROP, Dynamic Allocator Misuses, Reverse
 **🏆 Progress:** Advancing  
 
 
