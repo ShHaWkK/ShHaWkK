@@ -266,7 +266,9 @@ graph TD
 ### 🎓 **PWN.COLLEGE STUDENT**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/pwn.college-ShHaWkK-orange?style=for-the-badge&logo=graduationcap&logoColor=white" width="200"/>
+  
+  [![View Profile - pwn.college](https://img.shields.io/badge/pwn.college-ShHaWkK-orange?style=for-the-badge&logo=graduationcap&logoColor=white)](https://pwn.college/hacker/ShHaWkK)
+  <!-- <img src="https://img.shields.io/badge/pwn.college-ShHaWkK-orange?style=for-the-badge&logo=graduationcap&logoColor=white" width="200"/> -->
   <br/><br/>
   <img src="https://pwn.college/themes/dojo_theme/static/img/dojo/ninja.png?d=21779452" width="120"/>
 </div>
@@ -283,9 +285,8 @@ class PwnCollege:
         return "🚀 Learning Complete!"
 ```
 
-<a href="https://pwn.college/hacker/ShHaWkK">
-<img src="https://img.shields.io/badge/View%20Profile-pwn.college-orange?style=for-the-badge&logo=graduationcap&logoColor=white"/>
-</a>
+[![View Profile - pwn.college](https://img.shields.io/badge/View%20Profile-pwn.college-orange?style=for-the-badge&logo=graduationcap&logoColor=white)](https://pwn.college/hacker/ShHaWkK)
+
 
 </td>
 <td width="33%" align="center">
