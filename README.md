@@ -267,7 +267,7 @@ graph TD
 
 <div align="center">
   
-  [![View Profile - pwn.college](https://img.shields.io/badge/pwn.college-ShHaWkK-orange?style=for-the-badge&logo=graduationcap&logoColor=white)](https://pwn.college/hacker/ShHaWkK)
+  [![View Profile - pwn.college](https://img.shields.io/badge/pwn.college-ShHaWkK-orange?style=for-the-badge&logo=graduationcap&logoColor=white)](https://pwn.college/hacker/ShHawk)
   <!-- <img src="https://img.shields.io/badge/pwn.college-ShHaWkK-orange?style=for-the-badge&logo=graduationcap&logoColor=white" width="200"/> -->
   <br/><br/>
   <img src="https://pwn.college/themes/dojo_theme/static/img/dojo/ninja.png?d=21779452" width="120"/>
@@ -285,7 +285,7 @@ class PwnCollege:
         return "🚀 Learning Complete!"
 ```
 
-[![View Profile - pwn.college](https://img.shields.io/badge/View%20Profile-pwn.college-orange?style=for-the-badge&logo=graduationcap&logoColor=white)](https://pwn.college/hacker/ShHaWkK)
+[![View Profile - pwn.college](https://img.shields.io/badge/View%20Profile-pwn.college-orange?style=for-the-badge&logo=graduationcap&logoColor=white)](https://pwn.college/hacker/ShHawk)
 
 
 </td>
@@ -407,7 +407,7 @@ Routing & Switching: EXPERT
   <br/><br/>
 </div>
 
-**🎯 Username:** `ShHaWkK`  
+**🎯 Username:** `ShHawk`  
 **🏆 Rank:** Rising Star  
 **🔥 Focus:** Web Security  
 **📊 Progress:** Advancing  
@@ -422,12 +422,12 @@ Routing & Switching: EXPERT
 ### 🎓 **PWN.COLLEGE STUDENT**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/pwn.college-ShHaWkK-orange?style=for-the-badge&logo=graduationcap&logoColor=white" width="300"/>
+  <img src="https://img.shields.io/badge/pwn.college-ShHawk-orange?style=for-the-badge&logo=graduationcap&logoColor=white" width="300"/>
   <br/><br/>
   <img src="https://pwn.college/themes/dojo_theme/static/img/dojo/ninja.png?d=21779452" width="100"/>
 </div>
 
-**🎯 Username:** `ShHaWkK`  
+**🎯 Username:** `ShHawk`  
 **📚 Status:** Learning  
 **🚀 Goal:** Binary Exploitation  
 **🏆 Progress:** Advancing  
