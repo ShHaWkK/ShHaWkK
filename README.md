@@ -29,7 +29,7 @@
 ## 🌟 HUMAN.EXE PROFILE
 
 **🧠 Personality:** INFJ-A - The Architect  
-**💼 Role:** Junior Developer & System Administrator  
+**💼 Role:** Junior Developer & System Administrator  && Analyst SOC 
 **🎯 Mission:** Solving complex problems & learning cutting-edge technologies  
 **❤️ Passion:** Breaking things to understand how they work  
 
