@@ -260,9 +260,6 @@ graph TD
 [+] Rank: #2847 📈
 ```
 
-<a href="https://www.root-me.org/ShHawk?lang=fr">
-<img src="https://img.shields.io/badge/View%20Profile-Root--Me-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-</a>
 
 </td>
 <td width="33%" align="center">
@@ -437,9 +434,6 @@ Routing & Switching: EXPERT
 **🚀 Goal:** Binary Exploitation  
 **🏆 Progress:** Advancing  
 
-<a href="https://pwn.college/hacker/ShHaWkK">
-<img src="https://img.shields.io/badge/View%20Progress-pwn.college-orange?style=for-the-badge&logo=graduationcap&logoColor=white"/>
-</a>
 
 </td>
 </tr>
