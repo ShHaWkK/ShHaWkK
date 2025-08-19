@@ -256,7 +256,6 @@ graph TD
 [+] Cryptography: 35% ████░░░░░░  
 [+] Network: 72% ████████░░
 [+] System: 55% ██████░░░░
-[+] Rank: #2847 📈
 ```
 
 
