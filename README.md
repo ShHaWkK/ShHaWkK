@@ -26,12 +26,12 @@
 
 <div align="left">
 
-## 🌟 HUMAN.EXE PROFILE
+## HUMAN.EXE PROFILE
 
-**🧠 Personality:** INFJ-A - The Architect  
-**💼 Role:** Junior Developer & System Administrator  & Analyst SOC 
-**🎯 Mission:** Solving complex problems & learning cutting-edge technologies  
-**❤️ Passion:** Breaking things to understand how they work  
+** Personality:** INFJ-A - The Architect  
+** Role:** Junior Developer & System Administrator & Analyst SOC 
+** Mission:** Solving complex problems & learning cutting-edge technologies  
+** Passion:** Breaking things to understand how they work  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=76F6B0&repeat=false&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+I+love+programming%2C+break+my+head)](https://git.io/typing-svg)
 
@@ -79,27 +79,27 @@
 <tr>
 <td align="center" width="14.28%">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<br/>🐍 Code Beast
+<br/> Code Beast
 </td>
 <td align="center" width="14.28%">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<br/>⚡ Web Wizard
+<br/> Web Wizard
 </td>
 <td align="center" width="14.28%">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<br/>🛡️ Type Guardian
+<br/>Type Guardian
 </td>
 <td align="center" width="14.28%">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<br/>⚙️ System Core
+<br/>⚙System Core
 </td>
 <td align="center" width="14.28%">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<br/>🎮 Game Engine
+<br/> Game Engine
 </td>
 <td align="center" width="14.28%">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<br/>☕ Enterprise
+<br/> Enterprise
 </td>
 <td align="center" width="14.28%">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -108,7 +108,7 @@
 </tr>
 </table>
 
-### 🌐 **FRONTEND & FRAMEWORKS**
+###  **FRONTEND & FRAMEWORKS**
 
 <div align="center">
   
@@ -120,19 +120,19 @@
 <tr>
 <td align="center" width="16.66%">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<br/>🏗️ Structure
+<br/> Structure
 </td>
 <td align="center" width="16.66%">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<br/>🎨 Style Master
+<br/> Style Master
 </td>
 <td align="center" width="16.66%">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<br/>⚛️ Component
+<br/> Component
 </td>
 <td align="center" width="16.66%">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<br/>🚀 Framework
+<br/> Framework
 </td>
 <td align="center" width="16.66%">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -140,12 +140,12 @@
 </td>
 <td align="center" width="16.66%">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<br/>🎯 Design
+<br/> Design
 </td>
 </tr>
 </table>
 
-### 🛠️ **BACKEND & DEVOPS**
+###  **BACKEND & DEVOPS**
 
 <div align="center">
   
@@ -157,7 +157,7 @@
 <tr>
 <td align="center" width="16.66%">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<br/>🟢 Runtime
+<br/> Runtime
 </td>
 <td align="center" width="16.66%">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -165,11 +165,11 @@
 </td>
 <td align="center" width="16.66%">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<br/>🔄 Version Control
+<br/> Version Control
 </td>
 <td align="center" width="16.66%">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<br/>🐧 System
+<br/> System
 </td>
 <td align="center" width="16.66%">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -182,7 +182,7 @@
 </tr>
 </table>
 
-### 🎮 **GAME DEVELOPMENT & TOOLS**
+###  **GAME DEVELOPMENT & TOOLS**
 
 <div align="center">
   
