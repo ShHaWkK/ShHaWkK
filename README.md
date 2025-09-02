@@ -28,10 +28,10 @@
 
 ## HUMAN.EXE PROFILE
 
-** Personality:** INFJ-A - The Architect  
-** Role:** Junior Developer & System Administrator & Analyst SOC 
-** Mission:** Solving complex problems & learning cutting-edge technologies  
-** Passion:** Breaking things to understand how they work  
+**Personality: ** INFJ-A - The Architect  
+**Role:** Junior Developer & System Administrator & Analyst SOC 
+**Mission:** Solving complex problems & learning cutting-edge technologies  
+**Passion:** Breaking things to understand how they work  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=76F6B0&repeat=false&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+I+love+programming%2C+break+my+head)](https://git.io/typing-svg)
 
