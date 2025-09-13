@@ -44,7 +44,7 @@
 
 ### ⚡ NEURAL METRICS
 
-| 🔥 **Attribute** | 📊 **Level** | 🎯 **Status** |
+| **Attribute** | **Level** |  **Status** |
 |:---:|:---:|:---:|
 | **Coding Addiction** | ![](https://geps.dev/progress/98) | `MAXIMUM` |
 | **Coffee Dependency** | ![](https://geps.dev/progress/100) | `INFINITE` |
@@ -67,7 +67,7 @@
 
 </div>
 
-### 💻 **CORE PROGRAMMING LANGUAGES**
+### 💻 ** PROGRAMMING LANGUAGES**
 
 <div align="center">
   
@@ -103,7 +103,7 @@
 </td>
 <td align="center" width="14.28%">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<br/>🌐 Web Backend
+<br/> Web Backend
 </td>
 </tr>
 </table>
