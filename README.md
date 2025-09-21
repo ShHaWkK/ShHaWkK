@@ -26,7 +26,7 @@
 
 <div align="left">
 
-## HUMAN.EXE PROFILE
+## PROFILE .EXE
 
 **Personality:** INFJ-A - The Architect  
 **Role:** Junior Developer & System Administrator & Analyst SOC 
