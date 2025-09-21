@@ -42,7 +42,7 @@
 
 <div align="center">
 
-### ⚡ NEURAL METRICS
+### NEURAL METRICS
 
 | **Attribute** | **Level** |  **Status** |
 |:---:|:---:|:---:|
@@ -67,7 +67,7 @@
 
 </div>
 
-### 💻 ** PROGRAMMING LANGUAGES**
+###  ** PROGRAMMING LANGUAGES**
 
 <div align="center">
   
@@ -201,7 +201,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=⚡+DEVELOPER+LIFE+CYCLE+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=+DEVELOPER+LIFE+CYCLE+)](https://git.io/typing-svg)
 
 </div>
 
