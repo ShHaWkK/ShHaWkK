@@ -43,7 +43,7 @@
 
 <div align="center">
 
-### NEURAL METRICS
+### NEURAL 
 
 | **Attribute** | **Level** |  **Status** |
 |:---:|:---:|:---:|
