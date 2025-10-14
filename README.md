@@ -28,7 +28,8 @@
 
 ## PROFILE .EXE
 
-**Personality:** INFJ-A - The Architect  
+
+** Personality: ** INFJ-A - The Architect  
 **Role:** Junior Developer & System Administrator & Analyst SOC 
 **Mission:** Solving complex problems & learning cutting-edge technologies  
 **Passion:** Breaking things to understand how they work  
@@ -407,7 +408,7 @@ Routing & Switching: EXPERT
 </div>
 
 **🎯 Username:** `ShHawk`  
-**🏆 Rank:** Rising Star  
+**🏆 Rank:** No rank  
 **🔥 Focus:** Web Security  
 **📊 Progress:** Advancing  
 
@@ -438,7 +439,7 @@ Routing & Switching: EXPERT
 
 <div align="center">
   
-### 🌟 **UNIVERSAL HANDLE: `shhawk`**
+### 🌟 ** HANDLE: `shhawk`**
 *Find me across all platforms with this legendary username!*
 
 </div>
@@ -454,7 +455,7 @@ Routing & Switching: EXPERT
 </div>
 
 <details>
-<summary>🔐 <b>🏆 ULTIMATE HACKER CHALLENGE 🏆</b> (Click if you dare)</summary>
+<summary>🔐 <b>🏆 CHALLENGE FOR YOU 🏆</b> (Click if you dare)</summary>
 
 <div align="center">
   
@@ -465,7 +466,7 @@ Routing & Switching: EXPERT
 </div>
 
 ```
-🔥 LEGENDARY CIPHER CHALLENGE 🔥
+🔥 CHALLENGE 🔥
 ═══════════════════════════════════
 
 UWJ1WnV6aFJhVzUzYVdKRmRVeFlhbGRrU0E9PQ==
@@ -477,11 +478,11 @@ UWJ1WnV6aFJhVzUzYVdKRmRVeFlhbGRrU0E9PQ==
 *Two encryption layers protect this secret. Classic cipher meets modern encoding.*  
 *Only true digital warriors can unlock the mystery within...*
 
-**🏆 LEGENDARY REWARD:**  
+**🏆 REWARD:**  
 *Send the decrypted message to `shhawk` on Discord for exclusive hacker status!*  
 *First to solve gets a special digital badge and eternal bragging rights!*
 
-**⚡ DIFFICULTY LEVEL:** `LEGENDARY` 🔥🔥🔥🔥🔥
+** DIFFICULTY LEVEL:** `MEDIUM` 🔥
 
 </details>
 
@@ -501,7 +502,7 @@ UWJ1WnV6aFJhVzUzYVdKRmRVeFlhbGRrU0E9PQ==
 
 <div align="center">
 
-### 📚 **LEGENDARY RESOURCES**
+### 📚 ** RESOURCES**
 [readme-typing-svg](https://github.com/denvercoder1/readme-typing-svg) • [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) • [Skill Icons](https://github.com/tandpfun/skill-icons) • [Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
