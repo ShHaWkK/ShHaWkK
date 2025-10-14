@@ -29,7 +29,7 @@
 ## PROFILE .EXE
 
 
-** Personality: ** INFJ-A - The Architect  
+**Personality:** INFJ-A - The Architect  
 **Role:** Junior Developer & System Administrator & Analyst SOC 
 **Mission:** Solving complex problems & learning cutting-edge technologies  
 **Passion:** Breaking things to understand how they work  
@@ -68,7 +68,7 @@
 
 </div>
 
-###  ** PROGRAMMING LANGUAGES**
+###  **PROGRAMMING LANGUAGES**
 
 <div align="center">
   
@@ -439,7 +439,7 @@ Routing & Switching: EXPERT
 
 <div align="center">
   
-### 🌟 ** HANDLE: `shhawk`**
+### 🌟 **HANDLE: `shhawk`**
 *Find me across all platforms with this legendary username!*
 
 </div>
@@ -502,7 +502,7 @@ UWJ1WnV6aFJhVzUzYVdKRmRVeFlhbGRrU0E9PQ==
 
 <div align="center">
 
-### 📚 ** RESOURCES**
+### 📚 **RESOURCES**
 [readme-typing-svg](https://github.com/denvercoder1/readme-typing-svg) • [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) • [Skill Icons](https://github.com/tandpfun/skill-icons) • [Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
