@@ -368,7 +368,7 @@ Routing & Switching: EXPERT
 **🟢 Status:** Always Online  
 **🎮 Activity:** Coding & Gaming  
 
-<a href="https://discord.gg/TS6w3TYZRM">
+<a href="https://discord.gg/y49cB4UR">
 <img src="https://img.shields.io/badge/Join%20Server-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
