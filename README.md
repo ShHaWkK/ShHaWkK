@@ -22,7 +22,7 @@
 
 ### `PROFILE.EXE`
 
-**Personality:** INFJ-A — The Architect  
+**Personality:** INFJ-A - The Architect  
 **Role:** Junior Dev · Sysadmin · SOC Analyst  
 **Mission:** Solving complex problems & learning cutting-edge tech  
 **Passion:** Breaking things to understand how they work  
@@ -54,9 +54,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,vercel,heroku,netlify,cloudflare,aws,figma&theme=dark" /><br/><br/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlghq6u3Wlrj1C-RIrSyul1EMELmct6Crlpw&s" height="40" alt="NASM"/>
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/960px-Amazon_Web_Services_Logo.svg.png" height="32" alt="AWS"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white"/>
 </div>
 
 ---
@@ -78,12 +75,6 @@ Routing · Switching · Network Security
 **🔴 Root-Me**
 
 [![Root-Me](https://img.shields.io/badge/ShHawk-Root--Me-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/ShHawk?lang=fr)
-
-```
-Web: 68% ████████░░
-Net: 72% ████████░░
-Sys: 55% ██████░░░░
-```
 
 </td>
 <td align="center" width="33%">
