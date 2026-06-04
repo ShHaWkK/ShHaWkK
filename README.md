@@ -47,7 +47,7 @@
 
 ---
 
-<h3 align="center">⚙️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cs,java,js,ts,php,rust&theme=dark" /><br/>
@@ -59,12 +59,12 @@
 
 ---
 
-<h3 align="center">🏆 Certifications & CTF</h3>
+<h3 align="center">Certifications & CTF</h3>
 
 <div align="center"><table><tr>
 <td align="center" width="33%">
 
-**🏆 CCNA**
+**CCNA**
 
 ![Cisco](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
@@ -73,14 +73,14 @@ Routing · Switching · Network Security
 </td>
 <td align="center" width="33%">
 
-**🔴 Root-Me**
+**Root-Me**
 
 [![Root-Me](https://img.shields.io/badge/ShHawk-Root--Me-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/ShHawk?lang=fr)
 
 </td>
 <td align="center" width="33%">
 
-**🟠 pwn.college**
+**pwn.college**
 
 [![pwn.college](https://img.shields.io/badge/ShHawk-pwn.college-orange?style=for-the-badge&logo=graduationcap&logoColor=white)](https://pwn.college/hacker/ShHawk)
 
@@ -93,7 +93,7 @@ Memory Errors · Reverse
 ---
 
 <details>
-<summary><b>⚡ GitHub Stats</b></summary>
+<summary><b>GitHub Stats</b></summary>
 <br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ShHaWkK&theme=tokyonight&border_radius=8&hide_border=true" /><br/><br/>
