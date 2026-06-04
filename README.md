@@ -23,7 +23,8 @@
 ### `PROFILE.EXE`
 
 **Personality:** INFJ-A - The Architect  
-**Role:** Junior Dev · Sysadmin · SOC Analyst  
+**Role:** Developer Fullstack & Sysadmin &SOC Analyst  
+<br>
 **Mission:** Solving complex problems & learning cutting-edge tech  
 **Passion:** Breaking things to understand how they work  
 
