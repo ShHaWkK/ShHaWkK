@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=76F6B0&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Alexandre+%F0%9F%91%8B;Developer+Fullstack+%C2%B7+Sysadmin+%C2%B7+SOC+Analyst;CCNA+Certified+%7C+CTF+Player" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=76F6B0&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Alexandre+%F0%9F%91%8B;+Developer+%C2%B7+Sysadmin+%C2%B7+SOC+Analyst;CCNA+Certified+%7C+CTF+Player" alt="Typing SVG" />
 <br/>
 
 <a href="https://www.linkedin.com/in/alexandre-uzan-b65923256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
